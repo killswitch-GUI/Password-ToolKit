@@ -1,0 +1,40 @@
+Round 0: --SNIP-- Rules  -a 0 #HL# --SNIP---Running-Cracked_11_6_2015.txt -r best64.rules.txt
+Round 0: --SNIP-- Rules2  -a 0 #HL# --SNIP---Running-Cracked_11_6_2015.txt -r T0XlCv1.rule
+Round 0: --SNIP-- Hybrid  -a 6 #HL# --SNIP---Running-Cracked_11_6_2015.txt ?a
+Round 0: --SNIP-- Hybrid2  -a 6 #HL# --SNIP---Running-Cracked_11_6_2015.txt ?a?a
+Round 0: --SNIP-- Hybrid3  -a 6 #HL# --SNIP---Running-Cracked_11_6_2015.txt ?a?a?a
+Round 0: --SNIP-- Combinator Rule-a 1 #HL# --SNIP---Running-Cracked_11_6_2015.txt --SNIP---Running-Cracked_11_6_2015.txt
+Round 1: 4 Char Brute  -a 3 #HL# ?a?a?a?a 
+Round 2: 5 Char Brute  -a 3 #HL# ?a?a?a?a?a 
+Round 3: 6 Char Brute  -a 3 #HL# ?a?a?a?a?a?a 
+Round 4: 7 Char Brute  -a 3 #HL# ?a?a?a?a?a?a?a 
+Round 5: RockYou with Rules  -a 0 #HL# rockyou.txt -r best64.rules.txt
+Round 6: HashOrg Rules  -a 0 #HL# foundHashesOrg220215.txt -r best64.rules.txt 
+Round 7: CrackStationRules  -a 0 #HL# crackstation-1Bill-words.txt -r best64.rules.txt
+Round 8: InsidePro Rules  -a 0 #HL# InsideProFull.txt -r best64.rules.txt
+Round 9: Mega Rule -a 0 #HL# MegaCracker.txt -r best64.rules.txt
+Round 10: M3G Rules -a 0 #HL# M3G_THI_CTH_WORDLIST_CLEANED.txt -r best64.rules.txt
+Round 11: ISW Rules -a 0 #HL# isw2012-md5.txt -r best64.rules.txt
+Round 12: CrackHuman Rule  -a 0 #HL# crackstation-human-only.txt -r best64.rules.txt
+Round 13: HashKiller Rules  -a 0 #HL# hashkiller.com.txt -r best64.rules.txt
+Round 14: RandSocial Rule  -a 0 #HL# random_social_usernamesupd.txt -r best64.rules.txt
+Round 15: DazzelPod Rule  -a 0 #HL# dazzlepod.txt -r best64.rules.txt
+Round 16: SkullSec Rule  -a 0 #HL# SkullSecurityComp.txt -r best64.rules.txt
+Round 17: 14 MillPass Rule  -a 0 #HL# 14millionpass.txt -r best64.rules.txt
+Round 18: HashKillerOut Rule-a 0 #HL# hashkiller_output.txt -r best64.rules.txt
+Round 19: RockYou Hybrid  -a 6 #HL# rockyou.txt ?a 
+Round 20: RockYou Hybrid3  -a 6 #HL# rockyou.txt ?a?a 
+Round 21: RockYou Hybrid3  -a 6 #HL# rockyou.txt ?a?a?a
+Round 22: InsidePro Hybrid  -a 6 #HL# InsideProFull.txt ?a
+Round 23: InsidePro Hybrid2  -a 6 #HL# InsideProFull.txt ?a?a
+Round 24: InsiderPro Hybrid3-a 6 #HL# InsideProFull.txt ?a?a?a
+Round 25: CrackStation Hybrid-a 6 #HL# crackstation-1Bill-words.txt ?a
+Round 27: CrackStation Hybrid2-a 6 #HL# crackstation-1Bill-words.txt ?a?a
+Round 27: CrackStation Hybrid3-a 6 #HL# crackstation-1Bill-words.txt ?a?a?a
+Round 28: Hashes Hybrid  -a 6 #HL# foundHashesOrg220215.txt ?a
+Round 29: Hashes Hybrid2  -a 6 #HL# foundHashesOrg220215.txt ?a?a
+Round 30: Hashes Hybrid3  -a 6 #HL# foundHashesOrg220215.txt ?a?a?a
+Round 31: Rock Combinator  -a 1 #HL# rockyou.txt rockyou.txt
+Round 32: Rock Combinator Rule-a 1 #HL# rockyou.txt rockyou.txt --rule-right T0XlCv1.rule
+Round 33: Crack Combinator Rule-a 6 #HL# crackstation-1Bill-words.txt crackstation-1Bill-words.txt
+Round 34: Crack Combinator Rule-a 6 #HL# crackstation-1Bill-words.txt crackstation-1Bill-words.txt --rule-right T0XlCv1.rule
